@@ -18,12 +18,13 @@ As regras são simples:
 # Como executar o jogo:
 O Jogo pode ser executado pelo pycharm.
 
-Link de Download do pycharm: https://www.jetbrains.com/pt-br/pycharm/download/#section=windows
+Link de Download do pycharm: https://www.jetbrains.com/pt-br/pycharm/download/#section=windows.
+
 Após a configuração do ambiente, é necessário abrir o código e colocar para executar.
 
 
 
 # Referências:
 
-https://pt.wikipedia.org/wiki/Jogo_da_vida https://www.youtube.com/watch?v=yLiwUjnRJBE&feature=youtu.be
+https://pt.wikipedia.org/wiki/Jogo_da_vida https://www.youtube.com/watch?v=yLiwUjnRJBE&feature=youtu.be.
 
