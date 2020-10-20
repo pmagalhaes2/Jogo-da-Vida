@@ -13,4 +13,13 @@ As regras são simples:
 4. Qualquer célula viva com dois ou três vizinhos vivos continua no mesmo estado para a próxima geração.
 
 
+# Como executar o jogo:
+O Jogo pode ser executado pelo pycharm.
+
+Link de Download do pycharm: https://www.jetbrains.com/pt-br/pycharm/download/#section=windows
+
+
+# Referências:
+
+https://pt.wikipedia.org/wiki/Jogo_da_vida https://www.youtube.com/watch?v=yLiwUjnRJBE&feature=youtu.be
 
