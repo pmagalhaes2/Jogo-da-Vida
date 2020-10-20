@@ -4,6 +4,7 @@ Jogo da Vida Desenvolvido em Python.
 O jogo da vida é um automato celular desenvolvido pelo matemático britânico John Conway em 1970. O jogo foi criado de modo a reproduzir, através de regras simples, as alterações e mudanças em grupos de seres vivos, tendo aplicações em diversas áreas da ciência.
 
 
+
 # Regras do jogo:
 
 As regras são simples: 
@@ -13,10 +14,12 @@ As regras são simples:
 4. Qualquer célula viva com dois ou três vizinhos vivos continua no mesmo estado para a próxima geração.
 
 
+
 # Como executar o jogo:
 O Jogo pode ser executado pelo pycharm.
 
 Link de Download do pycharm: https://www.jetbrains.com/pt-br/pycharm/download/#section=windows
+
 
 
 # Referências:
