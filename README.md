@@ -19,6 +19,7 @@ As regras são simples:
 O Jogo pode ser executado pelo pycharm.
 
 Link de Download do pycharm: https://www.jetbrains.com/pt-br/pycharm/download/#section=windows
+Após a configuração do ambiente, é necessário abrir o código e colocar para executar.
 
 
 
